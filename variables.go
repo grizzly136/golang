@@ -29,16 +29,19 @@ func main() {
 	fmt.Printf("%v, %T\n", p, p)
 
 	//primitives
+
 	//bool(false by default)
 	var b bool
 	c := 2 == 2
 	fmt.Println(b, c)
 
-	//numeric
-
+	/*numeric
 	//integers
-	//float
-	//complex
-	//string
+	//signed(int,int8,int32(rune),int64)
+	//unsigned(uint,uint8(byte),uint16,uint32)
+	//float(float32,float64)
+	//complex(complex64,complex128)
+	*/
+	//string("",``)
 
 }
