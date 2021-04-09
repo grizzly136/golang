@@ -14,9 +14,9 @@ func main() {
 	}
 	//multidimensional
 	matrix := [3][3]int{
-		[3]int{1, 2, 3},
-		[3]int{4, 5, 6},
-		[3]int{7, 8, 9}}
+		{1, 2, 3},
+		{4, 5, 6},
+		{7, 8, 9}}
 
 	fmt.Println(matrix)
 
