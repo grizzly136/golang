@@ -1,2 +1,2 @@
 # golang
-implementation of golang
+* Implementation of golang
